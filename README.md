@@ -12,8 +12,11 @@
 
 ---
 
-![PostCraft - Voice-to-LinkedIn content engine with AI-generated images](assets/hero-screenshot.png)
-*Speak your ideas, get formatted LinkedIn posts with AI-generated images in seconds — Live demo at [postcraft.bolt.host](https://postcraft.bolt.host)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IrvinCruzAI/Linkedin_PostCraft/main/assets/hero-screenshot.png" alt="PostCraft Platform" width="100%">
+</p>
+
+<p align="center"><em>Speak your ideas, get formatted LinkedIn posts with AI-generated images in seconds — Live demo at <a href="https://postcraft.bolt.host">postcraft.bolt.host</a></em></p>
 
 ---
 
