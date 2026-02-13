@@ -12,6 +12,11 @@
 
 ---
 
+![PostCraft - Voice-to-LinkedIn content engine with AI-generated images](assets/hero-screenshot.png)
+*Speak your ideas, get formatted LinkedIn posts with AI-generated images in seconds — Live demo at [postcraft.bolt.host](https://postcraft.bolt.host)*
+
+---
+
 ## TL;DR (30-Second Scan)
 
 **What:** Voice-to-LinkedIn content engine. Speak or type your topic → get a formatted LinkedIn post with AI-generated image, brand voice applied, and publish-ready formatting.
