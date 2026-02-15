@@ -6,9 +6,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 
-![PostCraft Screenshot](./assets/screenshot.png)
-
 **[🚀 Try Live Demo](https://postcraft.bolt.host)** | **[Tech Stack](#tech-stack)** | **[Quick Start](#quick-start)**
+
+![PostCraft Screenshot](./assets/screenshot.png)
 
 **A [FutureCrafters](https://www.futurecrafters.ai) Project** • Built by [Irvin Cruz](https://irvincruz.com)
 
